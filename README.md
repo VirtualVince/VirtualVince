@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/vincente-sequeira-1824b4245/](https://www.linkedin.com/in/vincente-sequeira-1824b4245/)
 
-- ⚡ Fun fact ** We are all wizards that make rocks think.**
+- ⚡ Fun fact ** We are all wizards that make rocks think. **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
