@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [My Degree](https://github.com/VirtualVince/Semester-5)
 
-- 🌱 I’m currently learning **ASP.NET, advanced PostgreSQL queries, and drone programming with arduino**
+- 🌱 I’m currently learning **ML, cybersecurity, openMANET, with some game development (Lua/LÖVE2D, SQLite) on the side**
 
 - 👨‍💻 All of my projects are available at [https://virtualvince.ca](https://virtualvince.ca)
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/vincente-sequeira-1824b4245/](https://www.linkedin.com/in/vincente-sequeira-1824b4245/)
 
-- ⚡ Fun fact **I think coding solutions are like solving riddles with superpowers. We are all wizards that make rocks think.**
+- ⚡ Fun fact ** We are all wizards that make rocks think.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
