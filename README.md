@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virtualvince&label=Profile%20views&color=0e75b6&style=flat" alt="virtualvince" /> </p>
 
-- 🔭 I’m currently working on [My Degree](https://github.com/VirtualVince/Semester-5)
+- 🔭 I’m currently working on [My Degree](https://github.com/VirtualVince/Semester-6)
 
 - 🌱 I’m currently learning **ML, cybersecurity, openMANET, with some game development (Lua/LÖVE2D, SQLite) on the side**
 
