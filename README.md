@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **custom solutions for small businesses or ML.**
 
-- 📫 How to reach me **[virtualvince2020@gmail.com](mailto:virtualvince2020@gmail.com)**
+- 📫 How to reach me **(https://virtualvince.ca/#contact)**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/vincente-sequeira-1824b4245/](https://www.linkedin.com/in/vincente-sequeira-1824b4245/)
 
