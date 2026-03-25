@@ -11,7 +11,7 @@
 
 <!-- - 📝 I regularly write articles on [https://virtualvince.vercel.app/blog](https://virtualvince.vercel.app/blog) -->
 
-- 💬 Ask me about **React, NextJS, Google Maps API, and building custom solutions for small businesses.**
+- 💬 Ask me about **custom solutions for small businesses or ML.**
 
 - 📫 How to reach me **[virtualvince2020@gmail.com](mailto:virtualvince2020@gmail.com)**
 
