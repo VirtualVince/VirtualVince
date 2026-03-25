@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://virtualvince.ca](https://virtualvince.ca)
 
-- 📝 I regularly write articles on [https://virtualvince.vercel.app/blog](https://virtualvince.vercel.app/blog)
+<!-- - 📝 I regularly write articles on [https://virtualvince.vercel.app/blog](https://virtualvince.vercel.app/blog) -->
 
 - 💬 Ask me about **React, NextJS, Google Maps API, and building custom solutions for small businesses.**
 
