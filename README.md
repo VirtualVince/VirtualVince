@@ -13,17 +13,17 @@
 - **Native + embedded on the side** — iOS (Swift, Core Data), and hands-on hardware with Arduino.
 
 ### 🌱 Currently learning
-**ML & cybersecurity**, openMANET, and a bit of game dev (Lua / LÖVE2D, SQLite).
+**ML & cybersecurity**, Embedded Systems, and a bit of game dev (Lua / LÖVE2D, SQLite).
 
 ### 💬 Ask me about
-Computer vision, ML model training, or shipping custom software for small businesses.
+Computer vision, ML model training, or shipping custom software for small annd medium size businesses.
 
 ### 📫 Reach me
 - 🌐 Projects & client work → **[virtualvince.ca](https://virtualvince.ca)**
 - 💼 Experience → **[LinkedIn](https://www.linkedin.com/in/vincente-sequeira-1824b4245/)**
 - ✉️ Contact → **[virtualvince.ca/#contact](https://virtualvince.ca/#contact)**
 
-> ⚡ Fun fact: we're all just wizards who taught rocks to think.
+> ⚡ Fun fact: Developers are all just wizards who make rocks to think.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
