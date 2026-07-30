@@ -1,58 +1,112 @@
-<h1 align="center">Hi, I'm Vince 👋</h1>
-<h3 align="center">Full-stack dev with a soft spot for computer vision · Arch btw</h3>
+# Vincente Sequeira
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=virtualvince&label=Profile%20views&color=0e75b6&style=flat" alt="virtualvince" />
-</p>
+I build software that runs machines, and the infrastructure that keeps it running.
+
+That covers more ground than it sounds like. It is the reason a Linux VPS I administer
+and an Arduino on my bench are the same interest rather than two hobbies: both are about
+understanding the layer underneath, the one everything else depends on and nobody looks
+at until it breaks. I run a freelance practice under **Virtual Vince**, and I am
+building toward embedded and systems work.
+
+I am not a frontend developer. I ship frontends when a client needs one, and I would
+rather be under the surface.
 
 ---
 
-### 🔭 What I'm building
-- **Machine learning / computer vision** — CNNs and image-convolution pipelines (edge & line detection, CIFAR-10 classification with dropout, L2 regularization, and data augmentation). Walkthroughs on [YouTube](https://youtube.com/@nikolatesla7518?feature=shared). → [ML assignments](https://github.com/VirtualVince/Semester-6/tree/main/comp3132/assignments)
-- **Production web apps** — I ship real client work in **Next.js, TypeScript & Tailwind** (latest: [Radiant Roots](https://github.com/VirtualVince/radiantroots), Next 16 / React 19).
-- **Native + embedded on the side** — iOS (Swift, Core Data), and hands-on hardware with Arduino.
+## Orpheus
 
-### 🌱 Currently learning
-**ML & cybersecurity**, Embedded Systems, and a bit of game dev (Lua / LÖVE2D, SQLite).
+Version control for music production. Git works badly on DAW projects because they are
+large binary files with no stable identity inside them, so a one-note change looks like
+a whole-file rewrite. Orpheus makes those projects genuinely diffable.
 
-### 💬 Ask me about
-Computer vision, ML model training, or shipping custom software for small annd medium size businesses.
+I am a co-founder. My work is on the backend: the Convex schema, the track mutations,
+and the input validation that guards what reaches the database. I also contributed to
+the DAW diffing design and to the architecture of `flparse`, our Rust crate that parses
+FL Studio's binary event stream and re-encodes it byte-for-byte.
 
-### 📫 Reach me
-- 🌐 Projects & client work → **[virtualvince.ca](https://virtualvince.ca)**
-- 💼 Experience → **[LinkedIn](https://www.linkedin.com/in/vincente-sequeira-1824b4245/)**
-- ✉️ Contact → **[virtualvince.ca/#contact](https://virtualvince.ca/#contact)**
+The interesting problem is identity. FL Studio's format has no GUIDs anywhere, so
+channels, patterns and mixer inserts are identified purely by position. Work out that a
+user reordered two channels rather than deleted and recreated them, and you get a
+readable diff. Get it wrong and every save looks like a rewrite. Ableton is the
+opposite case, with stable persistent IDs but heavy save noise to filter out. Every
+prior attempt at this either handled one DAW or drowned in false positives.
 
-> ⚡ Fun fact: Developers are all just wizards who make rocks to think.
+TypeScript · Rust · Convex · Bun · Turborepo · Nix. Private repo, four contributors.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/vincente-sequeira-1824b4245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vincente sequeira" height="30" width="40" /></a>
-<a href="https://instagram.com/thevirtualvince" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thevirtualvince" height="30" width="40" /></a>
-<a href="https://youtube.com/@nikolatesla7518?feature=shared" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nikolatesla7518" height="30" width="40" /></a>
-</p>
+## Elizabeth Gardens Creative Collective
 
-<h3 align="left">Languages & Tools:</h3>
-<p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/></a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-</p>
+A community arts organization, running on a VPS I provisioned and administer end to
+end. Bare Ubuntu Server upward: HestiaCP, user accounts, DNS, firewall, and my own
+backup routine. It is multi-tenant, hosting other artists alongside the main site.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VirtualVince&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-</p>
+The build itself is roughly 5,700 lines of PHP across eleven plugins, and the approach
+matters more than the volume. Rather than clicking through the WordPress admin, I wrote
+idempotent provisioning plugins that create the pages, navigation, Elementor layouts,
+forms and content programmatically, each behind a preview-and-confirm step. Site
+structure lives in version control as data, not as a sequence of remembered UI actions.
 
+The one built to stay is an activity log: its own database table created on activation,
+a schema version key for migrations, configurable account exclusions, and capture of
+exact diffs for every content edit alongside plugin and publishing events. The board can
+see who changed what, which is what a volunteer-run organization actually needs.
+
+Ubuntu · HestiaCP · PHP · WordPress · MySQL · [creativecollectiveonline.com](https://creativecollectiveonline.com/)
+
+## ChironAI
+
+The AI arm of my practice: training teams to use AI properly, plus agent setup and
+automation for small businesses. Most of the work is unglamorous, which is the point.
+Businesses do not need a model, they need the boring integration around it to be
+reliable.
+
+[chiron.virtualvince.ca](https://chiron.virtualvince.ca/)
+
+## Client work
+
+- **[Radiant Roots Vitality](https://www.radiantrootsvitality.com/)**: health practice.
+  Next.js, TypeScript, Tailwind, with Google Maps and a Fullscript storefront handoff.
+  Ongoing hosting and maintenance retainer.
+- **[My YAYBI Way](https://myyaybiway.me/)**: Next.js, TypeScript, Tailwind, pulling
+  live products, images and metadata from a Shopify storefront into a custom front end
+  rather than theming Shopify itself.
+- **[K2E Canada](https://www.k2e.ca/)**: professional education. Shopify storefront
+  with custom Liquid.
+
+## Bench work
+
+**[r3builds](https://github.com/VirtualVince/R3Builds)** is ten Arduino Uno builds
+ordered so each earns one transferable skill the next one leans on: GPIO and timing,
+debounce, PWM, UART, ADC, I2C, SPI, a sensor-to-actuator control loop, a finite state
+machine, and IR protocol decode into actuation. It is deliberately unglamorous
+groundwork. The point is reading a datasheet and speaking a protocol without a library
+holding my hand.
+
+It feeds a longer roadmap: PID and IMU sensor fusion, RF and SDR work toward a
+receive-only satellite ground station, embedded Linux, and portable power. I am filming
+the whole thing, failures included.
+
+## Other work
+
+- **[cifar10-regularization-study](https://github.com/VirtualVince/cifar10-regularization-study)**:
+  a controlled four-model comparison isolating what dropout, L2 and augmentation each
+  contribute. Starts from a deliberately overparameterized 12M-parameter dense network
+  and fixes it one technique at a time.
+- **[employee-management-system](https://github.com/VirtualVince/employee-management-system)**:
+  Apollo GraphQL API over MongoDB with JWT auth and Cloudinary uploads, plus a
+  route-guarded Angular client.
+- **[ios-product-catalog](https://github.com/VirtualVince/ios-product-catalog)**: Swift
+  and UIKit, on a Core Data stack whose managed object model is built in code rather
+  than from a `.xcdatamodeld` bundle, so schema changes are reviewable in a diff.
+
+## Tools
+
+Go, TypeScript, Python, C++, C#, Java, PHP, Lua, SQL, Liquid. Linux and Ubuntu Server,
+HestiaCP, DNS and firewall administration. Node, Express, Next.js, React, Angular,
+ASP.NET. PostgreSQL, MongoDB, MySQL, SQLite, Convex. AWS, Azure, GCP, Vercel. Arduino,
+C for microcontrollers. Arch, fish, Neovim, Git.
+
+## Elsewhere
+
+Practice and client work at **[virtualvince.ca](https://virtualvince.ca)** ·
+[LinkedIn](https://www.linkedin.com/in/vincente-sequeira-1824b4245/) ·
+[YouTube](https://www.youtube.com/@virtualvincebuilds)
