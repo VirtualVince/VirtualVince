@@ -1,4 +1,4 @@
-# Vincente Sequeira
+# I use Arch btw
 
 I build and run websites and web apps for clients through my business, Virtual Vince.
 Lately I've been moving toward embedded and backend systems work, which is where I want
