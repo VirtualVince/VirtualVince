@@ -59,5 +59,5 @@ MySQL, SQLite, Convex. AWS, Azure, GCP, Vercel. Arduino and C for microcontrolle
 fish, Neovim.
 
 [virtualvince.ca](https://virtualvince.ca) ·
-[LinkedIn](https://www.linkedin.com/in/vincente-sequeira-1824b4245/) ·
+[LinkedIn](https://www.linkedin.com/in/vince-sequeira-1824b4245/) ·
 [YouTube](https://www.youtube.com/@virtualvincebuilds)
