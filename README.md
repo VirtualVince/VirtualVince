@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://virtualvince.ca">Website</a> ·
   <a href="https://www.linkedin.com/in/vince-sequeira-1824b4245/">LinkedIn</a> ·
-  <a href="https://www.youtube.com/@virtualvincebuilds">YouTube</a> ·
+  <a href="https://www.youtube.com/@ChironTraining">YouTube</a> ·
   <a href="https://chiron.virtualvince.ca/">ChironAI</a>
 </p>
 
