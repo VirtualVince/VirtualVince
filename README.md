@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vince 👋</h1>
-<h3 align="center">Backend and infrastructure, Embedded Systems · Arch btw</h3>
+<h3 align="center">Backend and infrastructure · Embedded Systems · Arch btw</h3>
 
 <p align="center">
   <a href="https://virtualvince.ca">Website</a> ·
